@@ -1,0 +1,47 @@
+.right-05 {
+    margin-right: .5em;
+}
+
+p.text-bottom-right {
+    position: absolute;
+    bottom: 0.7em;
+    right: 1em;
+}
+
+.cp-card-1col > div:nth-child(n+2) {
+    margin-top: 25px;
+}
+
+.campusviews .row:nth-child(n+2) {
+    margin-top: 25px;
+}
+
+/*.box--banner{*/
+.box-people{
+    position: relative;
+    /* To fix height, create it with a padding, and hide whats under it */
+    overflow: hidden;
+  /*  padding-bottom: calc(100% + 2em);*/
+  padding-bottom: calc(100% + 1em);
+}
+
+/*.box--banner >img{*/
+.box-people > img{
+    /* Position the image absolutely and fit it (width fix) */
+    position: absolute;
+    object-fit: cover;
+      /* Make sure it covers the area */
+    min-width: 100%;
+    min-height: 100%;
+    /* Center the image in the div */
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.campusviews--list .box .box--banner {
+    margin: 0 0 0 -1em;
+}
+
+.campusviews--list > article.box > p{
+    margin-left: -1em;
+}

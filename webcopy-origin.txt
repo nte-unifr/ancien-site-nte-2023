@@ -1,0 +1,1340 @@
+Uri: https://admin.unifr.ch/indigo/photo/139510/9d86b7ce6517deb299542e4c2b023336c7f0a8f1
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\indigo\photo\139510\9d86b7ce6517deb299542e4c2b023336c7f0a8f1
+Content Type: image/jpeg
+
+Uri: https://admin.unifr.ch/indigo/photo/146867/9d64adfe271b9077ade70dc54deed57016192e14
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\indigo\photo\146867\9d64adfe271b9077ade70dc54deed57016192e14
+Content Type: image/jpeg
+
+Uri: https://admin.unifr.ch/indigo/photo/152370/515b3c284047b6be732dfbe8f1d3edca744cad6d
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\indigo\photo\152370\515b3c284047b6be732dfbe8f1d3edca744cad6d
+Content Type: image/jpeg
+
+Uri: https://admin.unifr.ch/indigo/photo/152750/a64351a48c300a3b332d23378eef35f57c6fb07f
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\indigo\photo\152750\a64351a48c300a3b332d23378eef35f57c6fb07f
+Content Type: image/jpeg
+
+Uri: https://admin.unifr.ch/indigo/photo/152822/2b395b4b11b436a68ce336a446d0d221c70f3d52
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\indigo\photo\152822\2b395b4b11b436a68ce336a446d0d221c70f3d52
+Content Type: image/jpeg
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Bold-webfont.eot
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Bold-webfont.svg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Bold-webfont.ttf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Bold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Bold-webfont.woff
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Light-webfont.eot
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Light-webfont.svg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Light-webfont.ttf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Light-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Light-webfont.woff
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Light-webfont.woff
+Content Type: font/woff
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Regular-webfont.eot
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Regular-webfont.svg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Regular-webfont.ttf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Regular-webfont.woff
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Semibold-webfont.eot
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Semibold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Semibold-webfont.svg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Semibold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Semibold-webfont.ttf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Semibold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.unifr.ch/Assets/fonts/OpenSans-Semibold-webfont.woff
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\fonts\OpenSans-Semibold-webfont.woff
+Content Type: font/woff
+
+Uri: https://cdn.unifr.ch/Assets/img/close.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\Assets\img\close.png
+Content Type: image/png
+
+Uri: https://cdn.unifr.ch/images/banner/800x335/176.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\images\banner\800x335\176.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.unifr.ch/images/banner_1600_670/campus/193.1600.670.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\images\banner_1600_670\campus\193.1600.670.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.unifr.ch/images/banner_1600_670/fribourg/358.1600.670.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\images\banner_1600_670\fribourg\358.1600.670.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.unifr.ch/images/banner_1600_670/studies/124.1600.670.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\images\banner_1600_670\studies\124.1600.670.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.unifr.ch/images/banner_800_335/fribourg/358.800.335.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\images\banner_800_335\fribourg\358.800.335.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.unifr.ch/images/banner_800_335/studies/124.800.335.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\images\banner_800_335\studies\124.800.335.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.unifr.ch/sharedconfig/favicon/favicon.ico
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\sharedconfig\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/css/bootstrap.css
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/css/corr.css
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\css\corr.css
+Content Type: text/css
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/css/lightbox.css
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\css\lightbox.css
+Content Type: text/css
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/css/main.css
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\css\main.css
+Content Type: text/css
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/fonticons.eot
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\fonticons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/fonticons.eot?
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\fonticons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/fonticons.ttf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\fonticons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/fonticons.woff
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\fonticons.woff
+Content Type: font/woff
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/vjs.eot
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\vjs.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/vjs.eot?
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\vjs-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/vjs.svg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\vjs.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/vjs.ttf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\vjs.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/fonts/vjs.woff
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\fonts\vjs.woff
+Content Type: font/woff
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/gfx/logo.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\gfx\logo.png
+Content Type: image/png
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/images/close.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\images\close.png
+Content Type: image/png
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/images/loading.gif
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\images\loading.gif
+Content Type: image/gif
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/images/next.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\images\next.png
+Content Type: image/png
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/images/prev.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\images\prev.png
+Content Type: image/png
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/js/app.js
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\js\app.js
+Content Type: application/javascript
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/js/lightbox.js
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\js\lightbox.js
+Content Type: application/javascript
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/js/modernizr.js
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\js\modernizr.js
+Content Type: application/javascript
+
+Uri: https://cdn.unifr.ch/uf/v2.4.1/js/shared.js
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\uf\v2.4.1\js\shared.js
+Content Type: application/javascript
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.unifr.ch/directory/img/placeholder-people.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\directory\img\placeholder-people.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/assets/components/templateextra/css/people.css
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\assets\components\templateextra\css\people.css
+Content Type: text/css
+
+Uri: https://www.unifr.ch/nte/assets/public/files/affiches/Affiche_SWITCHdrive_A7_100GB.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\assets\public\files\affiches\Affiche_SWITCHdrive_A7_100GB.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/a-notre-sujet/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\a-notre-sujet\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/a-notre-sujet/documents/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\a-notre-sujet\documents\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/a-notre-sujet/documents/affiches.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\a-notre-sujet\documents\affiches.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/a-notre-sujet/documents/publications-scientifiques.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\a-notre-sujet\documents\publications-scientifiques.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/a-notre-sujet/documents/rapports-annuels.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\a-notre-sujet\documents\rapports-annuels.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/a-notre-sujet/documents/rapports-de-projets.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\a-notre-sujet\documents\rapports-de-projets.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/a-notre-sujet/equipe/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\a-notre-sujet\equipe\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/affiches/affiche_Antiquitas_2014_v02_small.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\affiches\affiche_Antiquitas_2014_v02_small.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/affiches/affiche_APB_2014_v02.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\affiches\affiche_APB_2014_v02.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/affiches/affiche_Atelier_SPSS_2014_v02.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\affiches\affiche_Atelier_SPSS_2014_v02.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/affiches/affiche_BoGart_2014_v04_small.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\affiches\affiche_BoGart_2014_v04_small.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/affiches/affiche_Epiphania_2014_v02_small.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\affiches\affiche_Epiphania_2014_v02_small.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/AIPU2004_ArticleHP.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\AIPU2004_ArticleHP.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/AIPU2005_Article_KSF_V3.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\AIPU2005_Article_KSF_V3.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/Article_SuccessFactors_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\Article_SuccessFactors_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/colloqfqc_article_2002.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\colloqfqc_article_2002.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/colloqfqc_present_paris2002.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\colloqfqc_present_paris2002.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/crdp1996_article.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\crdp1996_article.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/cvs_embryo_icnee02_article.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\cvs_embryo_icnee02_article.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/DaeleErpicumEsnaultPironetPlatteauxVandeput2006ExampleParticipatoryDesignMethodologyProjectAimsDevelopingIndividualOrganisationalLearningCommunitiesPractice.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\DaeleErpicumEsnaultPironetPlatteauxVandeput2006ExampleParticipatoryDesignMethodologyProjectAimsDevelopingIndividualOrganisationalLearningCommunitiesPractice.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/EARLI2005_Article_BCHP_V32.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\EARLI2005_Article_BCHP_V32.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/earli_sig2_article_2002.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\earli_sig2_article_2002.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/gickplatteauxhoeinblonspierrekohler-actesADMEE2012.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\gickplatteauxhoeinblonspierrekohler-actesADMEE2012.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/GoyettePlatteauxJimenez2007DevelopmentUserfriendlyDidacticClimateModelsTeachingLearningPurposes_TARVol3Num1.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\GoyettePlatteauxJimenez2007DevelopmentUserfriendlyDidacticClimateModelsTeachingLearningPurposes_TARVol3Num1.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/GurtnerMonbaronPlatteauxTouvetZahnd2004DynamiqueEvolutionInstitutionsFormationTertiaireSusciteeIntroductionTIC_BrochureFNRS.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\GurtnerMonbaronPlatteauxTouvetZahnd2004DynamiqueEvolutionInstitutionsFormationTertiaireSusciteeIntroductionTIC_BrochureFNRS.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/HoeinPlatteaux2006AprioriPerception_AIPU2006.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\HoeinPlatteaux2006AprioriPerception_AIPU2006.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/ICNEE2003_HP_Paper.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\ICNEE2003_HP_Paper.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/ICNEE2004_HP_Paper_V20.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\ICNEE2004_HP_Paper_V20.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/JimenezGoyettePlatteaux2007TechnicalAspectsDidacticClimateModelSimulationsTeachingLearningPurposes_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\JimenezGoyettePlatteaux2007TechnicalAspectsDidacticClimateModelSimulationsTeachingLearningPurposes_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/JimenezPlatteaux_INTED2008_V3.doc.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\JimenezPlatteaux_INTED2008_V3.doc.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/kohlerplatteauxblonspierre2010reactionsetudiantsusagetestsligne_aipu2010atf.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\kohlerplatteauxblonspierre2010reactionsetudiantsusagetestsligne_aipu2010atf.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/kohlerplatteauxblonspierre2012_revueripes_27_2.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\kohlerplatteauxblonspierre2012_revueripes_27_2.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/MagUniFR_2002dec_articleHPGC.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\MagUniFR_2002dec_articleHPGC.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/moccozetbenkacemplatteauxgillet2012_icalt.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\moccozetbenkacemplatteauxgillet2012_icalt.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/moccozetplatteauxfoersterbenkacem2013_eiah.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\moccozetplatteauxfoersterbenkacem2013_eiah.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/pdf_CentreNTE2009PiikCollaborativeNewsFilteringSystemElearningCommunityHigherEducation_EDENConf.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\pdf_CentreNTE2009PiikCollaborativeNewsFilteringSystemElearningCommunityHigherEducation_EDENConf.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/pdf_HoeinPlatteaux2008_SCIL08_v1.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\pdf_HoeinPlatteaux2008_SCIL08_v1.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/PID3150079.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\PID3150079.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/Platteaux1999These_TdM.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\Platteaux1999These_TdM.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/PlatteauxDaele2008OutilScenarioHybride_AIPUArticle_V2.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\PlatteauxDaele2008OutilScenarioHybride_AIPUArticle_V2.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/PlatteauxDevauchellePeraya2008ReferentielCompetencesEtudiantseLearning_AIPUArticle_V2.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\PlatteauxDevauchellePeraya2008ReferentielCompetencesEtudiantseLearning_AIPUArticle_V2.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/PlatteauxHoein2007NouveauxMaterielsAVElearningSallesCoursUtilisationsPerceptionsBesoinsEnseignantsEtudiants_Poster.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\PlatteauxHoein2007NouveauxMaterielsAVElearningSallesCoursUtilisationsPerceptionsBesoinsEnseignantsEtudiants_Poster.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/platteauxhoein2010_visionticeetudiants_aipu2010_t5028_texte_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\platteauxhoein2010_visionticeetudiants_aipu2010_t5028_texte_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/platteauxhoein2011_articlearbido_versionfinale.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\platteauxhoein2011_articlearbido_versionfinale.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/platteauxhoeinfoersterluthi2012reflexionsconceptioncoursticepourba_aipu2012_abstract.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\platteauxhoeinfoersterluthi2012reflexionsconceptioncoursticepourba_aipu2012_abstract.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/PlatteauxMoura2007ConcevoirServicesTechnologiquesAdaptesBesoinsCommunauteEnseignantsUniversitaires_AIPUAbstract_Vfinale.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\PlatteauxMoura2007ConcevoirServicesTechnologiquesAdaptesBesoinsCommunauteEnseignantsUniversitaires_AIPUAbstract_Vfinale.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/PlatteauxSieberMoccozetBenkacem_PedagoTICE2015_finale.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\PlatteauxSieberMoccozetBenkacem_PedagoTICE2015_finale.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/RapFinal2003.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\RapFinal2003.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/ste1998_abstract.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\ste1998_abstract.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/publications_scientifiques/WorkshopPeda_SVC2003_summary.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\publications_scientifiques\WorkshopPeda_SVC2003_summary.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/2020-09_rapportNTE2019-2020_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\2020-09_rapportNTE2019-2020_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2003-2004.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2003-2004.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2004-2005.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2004-2005.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2005-2006.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2005-2006.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2006-2007.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2006-2007.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2007-2008.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2007-2008.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2008-2009.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2008-2009.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2009-2010_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2009-2010_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2010-2011_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2010-2011_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2011-2012_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2011-2012_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2012-2013_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2012-2013_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2013-2014_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2013-2014_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2014-2015_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2014-2015_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2015-2016_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2015-2016_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2016-2017_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2016-2017_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2017-2018_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2017-2018_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapport2018-2019_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapport2018-2019_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapportNTE2020-2021_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapportNTE2020-2021_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/files/rapports_annuels/rapportNTE2021-2022_final.pdf
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\files\rapports_annuels\rapportNTE2021-2022_final.pdf
+Content Type: application/pdf
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/102.800_335.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\102.800_335.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/103.800_335.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\103.800_335.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/104.800_335.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\104.800_335.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_AppelProjets_antiquitas.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_AppelProjets_antiquitas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_AppelProjets_Goyette.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_AppelProjets_Goyette.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_AppelProjets_Spieser.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_AppelProjets_Spieser.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_AppelProjets_Video.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_AppelProjets_Video.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_Formations_Ergonomie.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_Formations_Ergonomie.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_HelpdeskELearning_blog_V2.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_HelpdeskELearning_blog_V2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_HelpdeskELearning_ScenarioGlossaire.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_HelpdeskELearning_ScenarioGlossaire.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_Moodle_General.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_Moodle_General.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_Projets_EVALGUIDE_v2.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_Projets_EVALGUIDE_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2007/AfficheNTE_SiteNTE.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2007\AfficheNTE_SiteNTE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_AppelProjets_biblio2010.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_AppelProjets_biblio2010.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_AppelProjets_BibUp_PubBiblioBP2_042011.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_AppelProjets_BibUp_PubBiblioBP2_042011.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_AppelProjets_CentreLangues2009.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_AppelProjets_CentreLangues2009.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_AppelProjets_DasenCallisto.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_AppelProjets_DasenCallisto.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_AppelProjets_HauserClavien.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_AppelProjets_HauserClavien.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_AppelProjets_JardinBotanique.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_AppelProjets_JardinBotanique.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_Formations_JourneeEvalAIPU2009.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_Formations_JourneeEvalAIPU2009.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_Formations_Web2-0.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_Formations_Web2-0.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_HelpdeskELearning_newsUnifr.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_HelpdeskELearning_newsUnifr.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_Limesurvey_General.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_Limesurvey_General.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2010/AfficheNTE_Recherche_Dualt.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2010\AfficheNTE_Recherche_Dualt.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_antiplagiat_2014_v01_thumb.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_antiplagiat_2014_v01_thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Antiquitas_2014_v02.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Antiquitas_2014_v02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_APB_2014_v02.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_APB_2014_v02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Atelier_SPSS_2014_v02.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Atelier_SPSS_2014_v02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_BoGart_2014_v04.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_BoGart_2014_v04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Callisto_2014_v03.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Callisto_2014_v03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Centre_NTE_2014_01.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Centre_NTE_2014_01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Epiphania_2014_v02.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Epiphania_2014_v02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_EPUB_2014_v03.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_EPUB_2014_v03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Limesurvey_2014_v02c.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Limesurvey_2014_v02c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_m.unifr.ch_2014_v03.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_m.unifr.ch_2014_v03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_myPLE.ch_2014_v02.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_myPLE.ch_2014_v02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Orthodoxia_2014_v03.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Orthodoxia_2014_v03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_scenarios_moodle_2014_v02.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_scenarios_moodle_2014_v02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_Tests_langues_2014_v03.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_Tests_langues_2014_v03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2014/affiche_votamatic_2014_v02.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2014\affiche_votamatic_2014_v02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2019/SWITCHdrive_Flyer_A6.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2019\SWITCHdrive_Flyer_A6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2019/UNIFR_Affiche_A3_CoursDSSA19-V8.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2019\UNIFR_Affiche_A3_CoursDSSA19-V8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2019/UNIFR_Affiche_A3_mypleVFinale.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2019\UNIFR_Affiche_A3_mypleVFinale.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2019/UNIFR_Affiche_A3_SWITCHinteractV3.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2019\UNIFR_Affiche_A3_SWITCHinteractV3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/affiches/2022/SWITCHdrive20022.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\affiches\2022\SWITCHdrive20022.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/edu-ID.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\edu-ID.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/FSPLFPQBCZ.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\FSPLFPQBCZ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/GettyImages-1164285763.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\GettyImages-1164285763.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/news.800.335.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\news.800.335.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/10_Monalisa.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\10_Monalisa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/bibup.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\bibup.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/filesender.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\filesender.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/MSTeams/microsoft-teams-logo.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\MSTeams\microsoft-teams-logo.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/online.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\online.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/quizzes.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\quizzes.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/REDCap/redcap-logo.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\REDCap\redcap-logo.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/service-eddb.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\service-eddb.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/survey.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\survey.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/switchDrive/Vorschaubild-switchdrive-logo.jpg_370087676.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\switchDrive\Vorschaubild-switchdrive-logo.jpg_370087676.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/SWITCHengines/SWITCHengines-Microsite-klein.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\SWITCHengines\SWITCHengines-Microsite-klein.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/Teaser-SWITCHtube.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\Teaser-SWITCHtube.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Outils/UniFRMobile/UniFRMobile.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Outils\UniFRMobile\UniFRMobile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/per2NTE.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\per2NTE.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/agathokles1.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\agathokles1.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/annotation4.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\annotation4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/antiquitas.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\antiquitas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/apb1.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\apb1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/bogart1.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\bogart1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/caa.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\caa.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/callisto_800-335-erc.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\callisto_800-335-erc.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/callisto_800-335.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\callisto_800-335.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/chat1.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\chat1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/cultures-hackers-wide.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\cultures-hackers-wide.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/cultures-hackers.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\cultures-hackers.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/diatheque.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\diatheque.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/drugs1.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\drugs1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/dualt2.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\dualt2.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/ebook.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\ebook.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/epub1.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\epub1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/equalplus.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\equalplus.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/Filming-980x450.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\Filming-980x450.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/jardin2-concept.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\jardin2-concept.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/jardin2-etiquette.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\jardin2-etiquette.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/jardin2-jbf.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\jardin2-jbf.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/learn.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\learn.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/logo-erc.5cdb0e3.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\logo-erc.5cdb0e3.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/ludus_800-335-erc.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\ludus_800-335-erc.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/ludus_800-335.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\ludus_800-335.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/medecine_alimentation1.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\medecine_alimentation1.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/numisma-wide.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\numisma-wide.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/numisma.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\numisma.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/offlineQuiz.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\offlineQuiz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/pilgrims1.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\pilgrims1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/ple.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\ple.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/quiz1.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\quiz1.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/scenario-moodle.png
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\scenario-moodle.png
+Content Type: image/png
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/siteit.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\siteit.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/spss1.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\spss1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/votar.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\votar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/Projets/weapp.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\Projets\weapp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/assets/public/images/scenario.jpg
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\assets\public\images\scenario.jpg
+Content Type: image/jpeg
+
+Uri: https://www.unifr.ch/nte/fr/contact.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\contact.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/outils-logiciels/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\outils-logiciels\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/a-web-based-training-in-medical-embryology.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\a-web-based-training-in-medical-embryology.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/accompagnement-cours-elearning.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\accompagnement-cours-elearning.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/administration-didactique.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\administration-didactique.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/agathokles.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\agathokles.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/annotations-en-ligne.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\annotations-en-ligne.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/antiquitas.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\antiquitas.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/approche-constructionniste-des-nti.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\approche-constructionniste-des-nti.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/archeologie-paleochretienne-et-byzantine.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\archeologie-paleochretienne-et-byzantine.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/archeologie-paleochretienne-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\archeologie-paleochretienne-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/archeologie-paleochretienne-iii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\archeologie-paleochretienne-iii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/archeologie-paleochretienne.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\archeologie-paleochretienne.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/autoevaluation-ikt-v2.0.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\autoevaluation-ikt-v2.0.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/autoevaluation-ikt.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\autoevaluation-ikt.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/autogramm-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\autogramm-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/autogramm.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\autogramm.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/awale.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\awale.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/banque-d’exercices-de-linguistique-française.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\banque-d’exercices-de-linguistique-française.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/biblische-umwelt-des-alten-testaments.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\biblische-umwelt-des-alten-testaments.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/bibup-gestion-des-references-bibliographiques-old.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\bibup-gestion-des-references-bibliographiques-old.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/bogart.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\bogart.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/bureau-virtuel.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\bureau-virtuel.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/chat.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\chat.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/chemvisu-visualisation-in-chemistry.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\chemvisu-visualisation-in-chemistry.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/codicologie-i-et-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\codicologie-i-et-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/cultures-hackers.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\cultures-hackers.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/departement-de-medecine.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\departement-de-medecine.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/difa.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\difa.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/droit-international-public-et-droit-europeen.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\droit-international-public-et-droit-europeen.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/dualt.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\dualt.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/e-book-en-pedagogie-curative.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\e-book-en-pedagogie-curative.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/einführung-in-die-qualitativ-empirische-sozialforschung-am-beispiel-der-religionsforschung.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\einführung-in-die-qualitativ-empirische-sozialforschung-am-beispiel-der-religionsforschung.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/einfuehrung-in-die-statistik-i-und-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\einfuehrung-in-die-statistik-i-und-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/elo-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\elo-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/epiphania.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\epiphania.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/european-law-online.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\european-law-online.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/faculte-online.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\faculte-online.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/flurina-cooperaziun-virtuala-per-l-instrucziun-da-rumantsch.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\flurina-cooperaziun-virtuala-per-l-instrucziun-da-rumantsch.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/hieroglyphes.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\hieroglyphes.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/histoire-de-l-education.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\histoire-de-l-education.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/histologie.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\histologie.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/html-basiertes-informationssystem-fuer-die-ausbildung-zu-psychodiagnostischen-verfahren.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\html-basiertes-informationssystem-fuer-die-ausbildung-zu-psychodiagnostischen-verfahren.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/importer-des-donnees-d-un-fichier-qcm-vers-moodle-quiz.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\importer-des-donnees-d-un-fichier-qcm-vers-moodle-quiz.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/introduction-a-lhistoire-du-bassin-mediterraneen.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\introduction-a-lhistoire-du-bassin-mediterraneen.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/introduction-a-linformatique-de-gestion.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\introduction-a-linformatique-de-gestion.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/jardin-botanique-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\jardin-botanique-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/la-reincarnation-d-helvetia.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\la-reincarnation-d-helvetia.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/lassemblee-de-posieux.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\lassemblee-de-posieux.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/learning-object-repository.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\learning-object-repository.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/metaphysique-contemporaine.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\metaphysique-contemporaine.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/moodle-et-latex.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\moodle-et-latex.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/musee-virtuel-sur-laliment-medicament.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\musee-virtuel-sur-laliment-medicament.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/neurologie-et-handicaps.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\neurologie-et-handicaps.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/numerisation-video.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\numerisation-video.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/orthodoxia.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\orthodoxia.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/paarfit-das-freiburger-stress-praventionstraining.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\paarfit-das-freiburger-stress-praventionstraining.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/padagogische-psychologie-iii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\padagogische-psychologie-iii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/planetary-energy-balance-model-i.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\planetary-energy-balance-model-i.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/planetary-energy-balance-model-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\planetary-energy-balance-model-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/planetary-energy-balance-model-iii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\planetary-energy-balance-model-iii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/problem-based-learning-in-medical-embryology.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\problem-based-learning-in-medical-embryology.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/psychologie-pédagogique.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\psychologie-pédagogique.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/psychologie-pedagogique-de-l-adolescent-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\psychologie-pedagogique-de-l-adolescent-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/publication-electronique-epub.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\publication-electronique-epub.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/resolution-de-puzzles-par-des-methodes-informatiques.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\resolution-de-puzzles-par-des-methodes-informatiques.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/revues-suisses.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\revues-suisses.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/scenarios-moodle.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\scenarios-moodle.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/sequences-video-du-jeu-awale.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\sequences-video-du-jeu-awale.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/systemes-repartis-ii.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\systemes-repartis-ii.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/systemes-repartis.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\systemes-repartis.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/thèses-électroniques.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\thèses-électroniques.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/video-digitalisierung.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\video-digitalisierung.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/vote-en-ligne.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\vote-en-ligne.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/anciens-projets/webapp.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\anciens-projets\webapp.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/atelier-spss.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\atelier-spss.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/callisto.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\callisto.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/diatheque.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\diatheque.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/digitalskills.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\digitalskills.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/equal.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\equal.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/getting-started.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\getting-started.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/ludus.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\ludus.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/myple.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\myple.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/numismatique.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\numismatique.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/pharmacologie.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\pharmacologie.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/pilgrims.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\pilgrims.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/prestations-it.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\prestations-it.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/slz-caa.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\slz-caa.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/projets-et-activites/tests-de-classement-en-ligne.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\projets-et-activites\tests-de-classement-en-ligne.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/ressources/
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\ressources\index.htm
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/ressources/guidevideo.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\ressources\guidevideo.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/ressources/myple.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\ressources\myple.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/ressources/scenarios-moodle.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\ressources\scenarios-moodle.html
+Content Type: text/html
+
+Uri: https://www.unifr.ch/nte/fr/services/ressources/tutoriels-nte.html
+File Name: C:\Users\collaudg\Desktop\site\www.unifr.ch\nte\fr\services\ressources\tutoriels-nte.html
+Content Type: text/html
+
